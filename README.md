@@ -1,1 +1,1 @@
-# TinkerCad_IC_74HC08
+# TinkerCad IC 74HC08
